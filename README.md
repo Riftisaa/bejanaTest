@@ -83,7 +83,7 @@ app/
 
 | Splash | Home | Search | Favorites | Detail |
 |--------|------|--------|-----------|--------|
-| ![Splash](design/splashscreen.png) | ![Home](design/Homepage.png) | ![Search](design/Search Page setelah pencarian berhasil.png) | ![Fav](design/Search bar hover.png) | ![Detail](design/detail character.png) |
+| ![Splash](design/Splashscreen.png) | ![Home](design/Homepage.png) | ![Search](design/Search_bar_hover.png) | ![Fav](design/Search_Page_setelah_pencarian_berhasil.png) | ![Detail](design/detail_character.png) |
 
 > Semua background menggunakan PNG transparan agar menyatu dengan UI.
 
@@ -227,7 +227,7 @@ graph TD
 
 | Home Screen | Search Screen | Favorite Screen | Detail Screen |
 |-------------|---------------|-----------------|---------------|
-| <img src="design/Homepage.png" width="200"/> | <img src="design/Search Page setelah pencarian berhasil.png" width="200"/> | <img src="design/Search bar hover.png" width="200"/> | <img src="design/detail character.png" width="200"/> |
+| <img src="design/Homepage.png" width="200"/> | <img src="design/Search_Page_setelah_pencarian_berhasil.png" width="200"/> | <img src="design/Search_bar_hover.png" width="200"/> | <img src="design/detail_character.png" width="200"/> |
 
 ---
 
